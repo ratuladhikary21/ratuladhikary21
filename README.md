@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a front-end web developer<br>🌱 I’m currently learning back-end Nord js & mongo DB<br>👯 I’m Currently Preparing For Cloud Certifications.<br>🔗 My google cloud public profile: https://www.cloudskillsboost.google/public_profiles/57f1bfcd-1fe0-4f98-b69b-5a957303023a<br>🤝 I’m looking for tech communities<br>😄 Pronouns: He/His
+🔭 I’m currently a fullstack developer<br>🌱 I’m currently learning back-end Nord js & mongo DB<br>👯 4xCloud Certifications 2Xgcp-1Xazure-1Xoracle.<br>🔗 My google cloud public profile: https://www.cloudskillsboost.google/public_profiles/57f1bfcd-1fe0-4f98-b69b-5a957303023a<br>🤝 I’m looking for tech communities<br>😄 Pronouns: He/His
 
 
 ## 🌐 Socials:
